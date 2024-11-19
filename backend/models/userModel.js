@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+import Schema from 'mongoose'
 // Define the schema for users
 const userSchema = new mongoose.Schema(
   {
